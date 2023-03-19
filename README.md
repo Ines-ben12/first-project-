@@ -1,6 +1,7 @@
 # first-project-
 Programming with C
 1.C Program to Sort Array in Descending Order
+
 #include <stdio.h>
 
 int main()
@@ -36,7 +37,9 @@ int main()
 	
 	return 0;
 }
+
 2.C Program to Sort Array in Descending Order using Functions
+
 #include <stdio.h>
 
 int *Sort_ArrayDesc(int arr[], int Size);
@@ -83,6 +86,7 @@ int *Sort_ArrayDesc(int arr[], int Size)
 	}
 	return arr;	
 }
+
 3.
 // C program to sort array elements in descending order
 // using functions
